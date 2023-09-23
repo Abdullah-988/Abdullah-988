@@ -1,5 +1,5 @@
 ## Hi 👋
-My name is Abdullah, I'm a full-stack web developer with 4+ years of experience, I build web and mobile apps using various technologies.
+My name is Abdullah, I'm a web developer with 4+ years of experience, I build web and mobile apps using various technologies.
 
 ## 🛠️ Languages, Frameworks and Technologies
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
