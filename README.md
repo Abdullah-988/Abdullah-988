@@ -8,7 +8,7 @@ Im Abdullah, I'm a web developer with 2+ years of experience, I build web and mo
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=43853D)
-![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![](https://img.shields.io/badge/Mongoose-000000.svg?style=for-the-badge&logo=Mongoose&logoColor=880000)
 ![](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 ![](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
