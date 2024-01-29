@@ -1,5 +1,5 @@
 ## Hello 👋
-I'm Abdullah, I'm a web developer with 2+ years of experience, I build web and mobile apps using various technologies.
+I'm Abdullah, a web developer with 2+ years of experience, I build web and mobile apps using various technologies.
 
 ## 🛠️ Languages, Frameworks and Technologies
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
